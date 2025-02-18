@@ -25,7 +25,6 @@ Python libraries for Data Science.
 
 ### II semester
 Machine learning. 
-- **Virtual environments.**
 - **Introduction into machine learning**. Feature space, conception of learning. Supervised/unsupervised learning. Typical ML tasks. Skit-learn introduction. 
 - **Supervised learning.** Regression models. Linear models. Bias-Variance Trade-off. Train/test split. 
 - **Naive Bayes.** Bayes theorem. NBC family of algorithms. Confusion matrix. Classification metrics.
@@ -44,8 +43,7 @@ Machine learning.
 ### Resources and usefull links: 
 **Books:** 
 - Python Data Science Handbook. This repository contains the entire Python Data Science Handbook, in the form of (free!) Jupyter notebooks. https://github.com/jakevdp/PythonDataScienceHandbook 
-- Python for Astronomers. Textbook and tutorials. https://prappleizer.github.io/ 
-- Intermediate python. https://book.pythontips.com/en/latest/ https://buildmedia.readthedocs.org/media/pdf/intermediatepythongithubio/latest/intermediatepythongithubio.pdf
+- Deep Learning. An MIT Press book. Ian Goodfellow and Yoshua Bengio and Aaron Courville. https://www.deeplearningbook.org/
 
 **Cheatsheets:** 
 - Python 3: https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
